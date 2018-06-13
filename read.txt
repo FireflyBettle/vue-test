@@ -1,0 +1,11 @@
+新闻API         		http://api.komavideo.com/news
+
+				https://www.youtube.com/watch?v=amb4cg2smeA&index=14&list=PLliocbKHJNwsAWbazoczCMgwNGtymjYCN
+
+小马源码 			https://gitee.com/komavideo/LearnVueJS2
+
+开发过程中的API代理		http://vuejs-templates.github.io/webpack/proxy.html
+
+Mint UI				https://mint-ui.github.io/docs/#/zh-cn2/quickstart
+
+bootstrap-vue			https://bootstrap-vue.js.org/docs/
