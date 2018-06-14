@@ -102,7 +102,7 @@ export default {
   },
   mounted() {
     this.axios.post("http://api.komavideo.com/news/list").then(body => {
-      console.log(body.data);
+      // console.log(body.data);
     });
   }
 }
